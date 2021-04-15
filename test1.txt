@@ -1,0 +1,9 @@
+function print(){
+  echo $1 $2 $3
+  }
+  quit(){
+    exit
+  }
+    print WELCOME TO GITHUB
+    echo "foo"
+    quit
