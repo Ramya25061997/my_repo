@@ -7,4 +7,3 @@ function focus(){
   echo "Given name is $name
   focuns max
   echo "foo"
-there is hope that's waiting for you in the dark
