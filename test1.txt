@@ -7,4 +7,3 @@ function print(){
     print WELCOME TO GITHUB
     echo "foo"
     quit
-
