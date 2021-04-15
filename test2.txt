@@ -1,0 +1,9 @@
+#! /bin/bash
+function focus(){
+  local var=$1
+  echo "Entered name is $var"
+  }
+  var="tom"
+  echo "Given name is $name
+  focuns max
+  echo "foo"
