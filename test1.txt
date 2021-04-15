@@ -8,3 +8,5 @@ function print(){
     echo "foo"
     quit
     there is a hope that's waiting fot you in the dark
+    you should know you're beautiful just the way you are
+    this is the unwanted line
